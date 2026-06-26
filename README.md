@@ -63,5 +63,8 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
 ## Example 1:Input: x = 123
 ## Output: 321
 
+## Example 2:Input: x = -123
+## Output: -321
+
  
 
