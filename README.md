@@ -66,5 +66,26 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize){
 ## Example 2:Input: x = -123
 ## Output: -321
 
+## Example 3:Input: x = 120
+## Output: 21
+
+## Link :https://leetcode.com/problems/reverse-integer/description/
+### Language: C
+```c
+int reverse(int x){
+    long rev=0,a;
+    
+    while(x)
+    {
+        a=x%10;
+        rev=rev*10+a;
+        x=x/10;
+    }
+    if (rev > INT_MAX || rev < INT_MIN) {
+        return 0;
+    }
+    return rev;
+}
+```
  
 
