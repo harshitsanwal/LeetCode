@@ -236,4 +236,8 @@ int removeElement(int* nums, int numsSize, int val) {
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harshitsanwal/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/harshitsanwal/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
