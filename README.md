@@ -232,10 +232,12 @@ int removeElement(int* nums, int numsSize, int val) {
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harshitsanwal/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/harshitsanwal/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/harshitsanwal/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/harshitsanwal/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Math
 |  |
 | ------- |
