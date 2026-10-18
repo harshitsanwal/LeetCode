@@ -82,6 +82,7 @@ This repository helps me:
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/harshitsanwal/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshitsanwal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -91,4 +92,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harshitsanwal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/harshitsanwal/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
