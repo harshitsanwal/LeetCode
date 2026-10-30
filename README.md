@@ -96,4 +96,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/harshitsanwal/LeetCode/tree/master/0344-reverse-string) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/harshitsanwal/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
