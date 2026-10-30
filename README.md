@@ -100,4 +100,12 @@ This repository helps me:
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/harshitsanwal/LeetCode/tree/master/0175-combine-two-tables) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/harshitsanwal/LeetCode/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/harshitsanwal/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
