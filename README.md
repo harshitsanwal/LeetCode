@@ -104,6 +104,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/harshitsanwal/LeetCode/tree/master/0066-plus-one) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshitsanwal/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Math
 |  |
 | ------- |
