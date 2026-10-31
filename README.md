@@ -79,6 +79,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/harshitsanwal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/harshitsanwal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/harshitsanwal/LeetCode/tree/master/0066-plus-one) |
+| [0560-subarray-sum-equals-k](https://github.com/harshitsanwal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitsanwal/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshitsanwal/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Math
@@ -111,4 +113,8 @@ This repository helps me:
 | ------- |
 | [0066-plus-one](https://github.com/harshitsanwal/LeetCode/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitsanwal/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/harshitsanwal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
