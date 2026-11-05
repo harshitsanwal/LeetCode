@@ -117,4 +117,20 @@ This repository helps me:
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/harshitsanwal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/harshitsanwal/LeetCode/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/harshitsanwal/LeetCode/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/harshitsanwal/LeetCode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/harshitsanwal/LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
