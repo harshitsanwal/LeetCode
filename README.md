@@ -105,6 +105,7 @@ This repository helps me:
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/harshitsanwal/LeetCode/tree/master/0066-plus-one) |
+| [0485-max-consecutive-ones](https://github.com/harshitsanwal/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/harshitsanwal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitsanwal/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshitsanwal/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
