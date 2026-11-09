@@ -83,6 +83,7 @@ This repository helps me:
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshitsanwal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/harshitsanwal/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshitsanwal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -137,4 +138,12 @@ This repository helps me:
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/harshitsanwal/LeetCode/tree/master/0101-symmetric-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshitsanwal/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshitsanwal/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
