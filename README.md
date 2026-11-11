@@ -112,6 +112,7 @@ This repository helps me:
 | [0560-subarray-sum-equals-k](https://github.com/harshitsanwal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitsanwal/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshitsanwal/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1929-concatenation-of-array](https://github.com/harshitsanwal/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
@@ -146,4 +147,8 @@ This repository helps me:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshitsanwal/LeetCode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/harshitsanwal/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
