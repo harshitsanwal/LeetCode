@@ -99,6 +99,7 @@ This repository helps me:
 | ------- |
 | [0189-rotate-array](https://github.com/harshitsanwal/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/harshitsanwal/LeetCode/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshitsanwal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Database
 |  |
 | ------- |
@@ -110,6 +111,7 @@ This repository helps me:
 | [0189-rotate-array](https://github.com/harshitsanwal/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/harshitsanwal/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/harshitsanwal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshitsanwal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/harshitsanwal/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/harshitsanwal/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/harshitsanwal/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -151,4 +153,8 @@ This repository helps me:
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/harshitsanwal/LeetCode/tree/master/1929-concatenation-of-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/harshitsanwal/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
